@@ -1,0 +1,6 @@
+#This file makes git ignore whatever you want, fantastic
+#Ignore books folder
+/books 
+#Ignore pycache folder
+__pycache__/
+
